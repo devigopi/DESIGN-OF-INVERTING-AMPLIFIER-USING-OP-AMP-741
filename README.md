@@ -60,9 +60,20 @@ AV=Vd/V2-V1=-Rf/Ri
 # DESIGN:
 
 # TABULATION:
-
+```
+Inverting Amplifier
+<img width="757" height="385" alt="Screenshot 2025-11-16 104556" src="https://github.com/user-attachments/assets/2371cba3-1507-439b-b1a6-81d679840a6c" />
+Non-Inverting Amplifier
+<img width="760" height="392" alt="Screenshot 2025-11-16 104647" src="https://github.com/user-attachments/assets/502ee21a-8682-4bfe-800b-7df3a3596ff5" />
+Differential Amplifier
+<img width="759" height="403" alt="Screenshot 2025-11-16 104807" src="https://github.com/user-attachments/assets/7c421030-92d6-4a8e-bb1f-6b4c035763de" />
+```
 # THEORETICAL CALCULATION:
-
+```
+<img width="571" height="817" alt="Screenshot 2025-11-16 105012" src="https://github.com/user-attachments/assets/61dd8bc8-ea77-4568-bf5f-2cdac8e1d714" />
+```
 # GRAPH:
-
+<img width="664" height="790" alt="Screenshot 2025-11-16 105049" src="https://github.com/user-attachments/assets/6400c53f-c2c7-4091-b852-cbaefb1ddffd" />
+<img width="617" height="550" alt="Screenshot 2025-11-16 105153" src="https://github.com/user-attachments/assets/e665fc3e-e0ae-47ad-90e3-5632562f0d6c" />
 # RESULT:
+Thus the inverting,Non-inverting and differential amplifiers are designed and their performance was successfully tested using op-amp IC 741.
